@@ -13,37 +13,37 @@ where each element is found.
 
 TAGS:
 
--<html op = "something"> : This tag tells the browser that this is an HTML
+-html op = "something"> : This tag tells the browser that this is an HTML
 document and represents the root of it. In this example, it represents
 the roots of: news, past, comments, ask, show, jobs and submit. 
 
--<head>: 
+-head: 
 This tag contains all the head elements like the title, scrips, 
 styles and more. It contains all the elements that like the icon Y, Hacker 
 News, etc.
--> <meta>: This tag provides metadata about the HTML document. Is typically
+-> meta: This tag provides metadata about the HTML document. Is typically
 used to specify page description, keywords, author, last modified and other 
 metadata. This metadata can be used by browsers, search engines, etc. In this
 example is used to take control over the viewport.
--> <link>: It defines a link between a document and an external resurce. Is 
+-> link: It defines a link between a document and an external resurce. Is 
 used to link to external style sheets. In this case, if you press the icon [Y],
 the web page is updated immediately.
 --------------------------------------------------------------------------------
--<body>:
+-body:
 This tag defines the documents body and contains all the contents of the HTML
 document, such as text, hyperlinks, images, lists, etc.
--> <center>: This tag is used to center/align text.
--> <table>: This tag defines an HTML table. 
--> <tbody>: This tag is used to group the body content in the table.
--> <tr>: This tag defines a row in a table. It contains: <th>: header cell 
-and <td>: standar cell that contains data.
--> <a>: This tag defines a hyperlink, wich is used to link from one page to 
-another. <a href> indicates the link's destination.
--> <img>: This tag defines an image in an HTML page.
--> <span>: This tag is used to group inline elements in a document.
--> <b>: This tag specifies bold text.
--> <br>: This tag inserts a single line break.
--> <script>: This tag is used to define a client side script.
+-> center: This tag is used to center/align text.
+-> table: This tag defines an HTML table. 
+-> tbody: This tag is used to group the body content in the table.
+-> tr: This tag defines a row in a table. It contains: th: header cell 
+and td: standar cell that contains data.
+-> a: This tag defines a hyperlink, wich is used to link from one page to 
+another. a href indicates the link's destination.
+-> img: This tag defines an image in an HTML page.
+-> span: This tag is used to group inline elements in a document.
+-> b: This tag specifies bold text.
+-> br: This tag inserts a single line break.
+-> script: This tag is used to define a client side script.
 
 *****************************************************************************
 QUESTION 4:
